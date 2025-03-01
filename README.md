@@ -1,6 +1,6 @@
 # Hi there, I'm Ramakishore Nooji 👋
 
-![Profile Banner](https://source.unsplash.com/random/1200x300/?technology,code)
+![Profile Banner](https://www.linkedin.com/in/ramakishore-nooji-00125656/)
 
 I'm a passionate **Backend Developer** with over **14 years** of industry experience, currently driving innovative solutions at **Annalect**. My journey has taken me through several exciting phases—from building robust cloud-native applications at IBM, Oracle, and Mphasis to excelling in enterprise solutions at Kyndryl. At Annalect, I've been instrumental in developing critical backend APIs for our flagship product, **OMNI**, and contributing to projects like **O&A** and the **Workflow**. Along the way, I've been honored with awards like the **Annalectual of the Quarter**, **On the Spot Award**, and recognition as part of the **Annalectual Team** – all of which continue to fuel my drive for excellence. 🚀
 
